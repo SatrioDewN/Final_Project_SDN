@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button_Masuk_Header</name>
+   <name>Button_Buat akun</name>
    <tag></tag>
-   <elementGuidId>d33789d1-8650-45b8-a16b-d23e1830e134</elementGuidId>
+   <elementGuidId>a03399e1-3990-4c84-b713-8b472850295e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='navbar-collapse-1']/ul/li[7]/a</value>
+         <value>//a[@id='buttonCreateAccTrack']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>li:nth-of-type(7) > a</value>
+         <value>#buttonCreateAccTrack</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,102 +22,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9e554ff4-2bba-41d2-8756-e92cd0067ed2</webElementGuid>
+      <webElementGuid>e7b7435e-efa5-4ef2-8db8-7d04ad3ae123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>buttonCreateAccTrack</value>
+      <webElementGuid>db004e86-5ac1-4ef9-913d-1c67415d48e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/login</value>
-      <webElementGuid>8333dcfc-9a62-45e3-b6a6-810418fcb833</webElementGuid>
+      <value>/daftar</value>
+      <webElementGuid>04a6cee9-a12a-48e5-a5d5-cc19b940b572</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Masuk</value>
-      <webElementGuid>b8382c27-fb2f-4f54-bbbf-d6ab52282689</webElementGuid>
+      <value>Buat akun</value>
+      <webElementGuid>d47bdab3-4188-422f-a084-e591754874f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[7]/a[1]</value>
-      <webElementGuid>0b4d1a1e-e353-4b54-80bb-334dc08a05de</webElementGuid>
+      <value>id(&quot;buttonCreateAccTrack&quot;)</value>
+      <webElementGuid>eb6f5498-ef5f-4d98-a698-e1e58866bb83</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//div[@id='navbar-collapse-1']/ul/li[7]/a</value>
-      <webElementGuid>327a3eaa-ab5e-4df7-942b-592446d7027c</webElementGuid>
+      <value>//a[@id='buttonCreateAccTrack']</value>
+      <webElementGuid>9e34aa97-4ea7-4b28-8efb-d6d28b881f93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Masuk')]</value>
-      <webElementGuid>31f1cb51-749f-4938-aab2-b17aeeef1a79</webElementGuid>
+      <value>//a[contains(text(),'Buat akun')]</value>
+      <webElementGuid>4fdd7dae-24f0-463a-b8bd-e2e4345541dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontak'])[1]/following::a[1]</value>
-      <webElementGuid>6d2caf77-d2cd-4d86-93f2-20ee47fb581d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa kata sandi ?'])[1]/following::a[1]</value>
+      <webElementGuid>eab81fbf-b924-4d25-8894-359256d2d0dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/following::a[2]</value>
-      <webElementGuid>124fa9d2-53f9-4ee8-9753-d870001f3790</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::a[1]</value>
+      <webElementGuid>c9985630-5684-4f26-9229-e681545667d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutup'])[1]/preceding::a[2]</value>
-      <webElementGuid>6cde9724-7397-4728-a72d-efc3a54f0d2c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verifikasi'])[1]/preceding::a[1]</value>
+      <webElementGuid>c4aff931-d99c-4a7d-bccc-dc190e3673c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
-      <webElementGuid>1a12720d-5221-48a2-85ef-ac27d0c47889</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Buat akun']/parent::*</value>
+      <webElementGuid>a63f3ea5-c406-468f-9d18-d1a0d5b1e472</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/login')]</value>
-      <webElementGuid>1245a258-30bd-4c6c-91e3-a258cfe34aa8</webElementGuid>
+      <value>(//a[contains(@href, '/daftar')])[2]</value>
+      <webElementGuid>d8dc7b5f-a62a-47c7-829d-bfcdad3bebee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[7]/a</value>
-      <webElementGuid>bfa13112-0a85-4cd3-b30f-f1a5e77e3a5c</webElementGuid>
+      <value>//div[4]/div[2]/div/div/div/div/div/div/div[2]/a</value>
+      <webElementGuid>3c85f176-0b5d-4aec-9878-815360ecf557</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/login' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>03e17d04-aea5-496f-8a27-e6987fbd81fc</webElementGuid>
+      <value>//a[@id = 'buttonCreateAccTrack' and @href = '/daftar' and (text() = 'Buat akun' or . = 'Buat akun')]</value>
+      <webElementGuid>c187a2f8-acfb-4e90-80d1-79c112849adc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
