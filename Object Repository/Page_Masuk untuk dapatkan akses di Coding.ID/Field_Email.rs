@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b40b3525-f2ae-4f42-8d27-367472c03d69</webElementGuid>
+      <webElementGuid>061c7ca6-0537-4103-ac41-3631349f0dda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>742936a6-a979-418f-835a-826f17494803</webElementGuid>
+      <webElementGuid>76ce7a4b-0050-477f-b9a2-49cf73fc0bbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>f43bc5a2-aa18-43c5-8856-509dec5ddad1</webElementGuid>
+      <webElementGuid>b0204cec-bfe3-46fa-b902-4a504b74ab04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>contoh@mail.com</value>
-      <webElementGuid>5b00e6dd-a4f2-4bc8-9fba-76e1fc7c68b1</webElementGuid>
+      <webElementGuid>1394a79a-c798-4fea-9268-435d434939a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>a39bf935-db38-491d-913f-8a7ae2e51963</webElementGuid>
+      <webElementGuid>afdc6b34-1110-41ae-982d-7e8ad9c21f89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>name</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>68e77979-2c9e-4282-b377-d88d340081c7</webElementGuid>
+      <webElementGuid>446d6a81-1a7d-4005-ac36-b9904bb87801</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>08656e2e-0f8e-4195-ab3d-1bfeb7211e5d</webElementGuid>
+      <webElementGuid>36c17fda-88d9-4438-9c73-7fd44e5f5856</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;email&quot;)</value>
-      <webElementGuid>3edd8e09-252b-487e-a6f7-525220023e9f</webElementGuid>
+      <webElementGuid>ba22bc95-99d4-4981-be8f-643bbeaeecd4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='email']</value>
-      <webElementGuid>24c1e64f-5ab2-449f-95f4-36cee1eb1e03</webElementGuid>
+      <webElementGuid>c60ffc1a-ed8f-4f5a-abdc-5c2ef99c8560</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/input</value>
-      <webElementGuid>593e62d4-96af-4e24-9513-af185ff21a13</webElementGuid>
+      <webElementGuid>c60db0de-56c8-4328-9cec-e3aba1ad979d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'email' and @type = 'email' and @placeholder = 'contoh@mail.com' and @name = 'email']</value>
-      <webElementGuid>9ef1d10a-050a-48b4-903b-c46b24b2de5f</webElementGuid>
+      <webElementGuid>c3ab14ea-e560-4847-bbd8-54712ef6279e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
