@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ab0081b6-7481-4762-b6d8-dd17cb0293cd</webElementGuid>
+      <webElementGuid>7c414406-bb8a-4568-84a9-c338d52d2c00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>listSiteMap</value>
-      <webElementGuid>00baea34-fad6-4798-9e98-9b77610bcc39</webElementGuid>
+      <webElementGuid>4747b07e-0761-4241-8caf-f3c297cb736d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/login</value>
-      <webElementGuid>b2a15b99-db1f-4d1a-9b21-b6c5e49f0f28</webElementGuid>
+      <webElementGuid>a62fffd7-18f5-40bf-b897-9d7b2ff981cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <type>Main</type>
       <value>
                                                 Login</value>
-      <webElementGuid>80370a49-c3bd-40cf-be9a-3790323f2c3b</webElementGuid>
+      <webElementGuid>f117dfbc-74f7-492a-af25-b5b0efca57df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wm-footer&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/aside[@class=&quot;col-md-4 col-sm-12 col-12&quot;]/div[@class=&quot;row&quot;]/ul[@class=&quot;col-md-6 col-sm-6 col-xs-6&quot;]/li[2]/a[@class=&quot;listSiteMap&quot;]</value>
-      <webElementGuid>ce8fafbd-70c4-4dfd-b4bb-4325b9cc6b89</webElementGuid>
+      <webElementGuid>2809f632-3976-4b39-b10a-723c02f23e50</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,73 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//footer[@id='wm-footer']/div/div/div/aside[2]/div[2]/ul[2]/li[2]/a</value>
-      <webElementGuid>43076cd8-fd04-4a92-bd93-2df2711b9274</webElementGuid>
+      <webElementGuid>3220b483-da8a-4b3f-b301-d2a1065cec03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Login')]</value>
+      <webElementGuid>fc417402-1369-4b8e-a4ce-4268e2e80417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontak'])[4]/following::a[1]</value>
+      <webElementGuid>c2a1f06f-a7e4-43fc-9b75-c8430b8075af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up'])[1]/preceding::a[1]</value>
+      <webElementGuid>18380c7f-7157-4621-9343-b3f61094f4ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontak'])[5]/preceding::a[2]</value>
+      <webElementGuid>c28d4323-57e7-4cb6-b5ad-70605f1b6ed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>cfd02ffc-e8a2-457e-979b-20726b7c6439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/login')]</value>
+      <webElementGuid>32fa443a-0d98-43d6-89ec-2e5ed49e87d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul[2]/li[2]/a</value>
+      <webElementGuid>ef388515-41fe-4770-8dbb-b61d01268a15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/login' and (text() = '
+                                                Login' or . = '
+                                                Login')]</value>
+      <webElementGuid>2d45118c-3dec-4217-972b-cc14fd753bc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -76,51 +142,9 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontak'])[4]/following::a[1]</value>
-      <webElementGuid>77e5fbb3-aefe-4c37-ab16-09e46d748085</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up'])[1]/preceding::a[1]</value>
-      <webElementGuid>953c6e2d-d650-4fd8-bf8e-0c5216a5d54c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontak'])[5]/preceding::a[2]</value>
-      <webElementGuid>f9edbcd9-cd83-4473-bb48-a291334e1fbf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '/login')])[4]</value>
       <webElementGuid>b3081281-6760-4f43-b949-3dc9d3603822</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/ul[2]/li[2]/a</value>
-      <webElementGuid>a7eb6725-5a21-41cc-aa11-b1f461082ce8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//a[@href = '/login' and (text() = '
-                                                Login' or . = '
-                                                Login')]</value>
-      <webElementGuid>bc2f0ff4-4361-4e1c-83c2-136f552594f5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

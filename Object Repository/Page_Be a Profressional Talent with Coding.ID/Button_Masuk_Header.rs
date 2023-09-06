@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4112c9a3-4815-4d8d-8f16-684784642531</webElementGuid>
+      <webElementGuid>e2f5123f-f556-4def-9a06-cd8faa6cf53c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/login</value>
-      <webElementGuid>1ea74f61-a866-498d-8fb3-c10274b3434c</webElementGuid>
+      <webElementGuid>0cf5e456-cdcd-4f63-94b8-4c5dbc245b4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Masuk</value>
-      <webElementGuid>9c9a5281-9d88-4bb2-a9e3-db69f99e7956</webElementGuid>
+      <webElementGuid>b979e6cb-d6cb-46b5-be72-daf2921f702e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[7]/a[1]</value>
-      <webElementGuid>6b43b70f-945d-45bc-8439-79e28e92e2dd</webElementGuid>
+      <webElementGuid>32ba8df3-f487-4db8-b9e0-2af8964c964e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbar-collapse-1']/ul/li[7]/a</value>
-      <webElementGuid>25ea86ef-bf54-4f7d-9032-422d6e8393da</webElementGuid>
+      <webElementGuid>0c42e87a-34a8-4d59-a793-7c3265f5b9a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Masuk')]</value>
-      <webElementGuid>e6018a73-d7d9-49df-b874-3206e6273c65</webElementGuid>
+      <webElementGuid>aaa364f8-7a85-4dbb-b475-18903dbdea31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontak'])[1]/following::a[1]</value>
-      <webElementGuid>cba1618c-5d99-40a4-b003-4b8e5bc91739</webElementGuid>
+      <webElementGuid>d4ceca7c-71c6-4db2-b940-738e874b0101</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/following::a[2]</value>
-      <webElementGuid>7073a623-1df6-4f6b-a869-217580ad107b</webElementGuid>
+      <webElementGuid>17ad4f05-f334-460b-abfc-dc163a1e4029</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutup'])[1]/preceding::a[2]</value>
-      <webElementGuid>68b1122f-62c1-4d12-8c1b-6388c88b2fec</webElementGuid>
+      <webElementGuid>315739db-f6ad-4a4f-afc2-9439f3ba19fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
-      <webElementGuid>fe61c675-6054-4a4d-8283-0f3f1f667aad</webElementGuid>
+      <webElementGuid>72717f94-7558-4057-9ef0-6aa81a57ec9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/login')]</value>
-      <webElementGuid>392f3133-087e-4fec-88be-7e24a3e40861</webElementGuid>
+      <webElementGuid>86c11527-a891-4de8-9c4f-4db41304bbdf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[7]/a</value>
-      <webElementGuid>391fd6a6-cad7-4837-bc96-251711e191d4</webElementGuid>
+      <webElementGuid>294909ee-a26d-4590-8916-925e37183bac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/login' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>75569c4d-858c-4c25-af86-c16082a9bd84</webElementGuid>
+      <webElementGuid>bb75d9f4-1c65-48ec-b8a8-e89d3b2fc0e7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
