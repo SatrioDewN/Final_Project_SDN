@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Lihat Event Lainnya</name>
+   <name>Button_Pembelian Saya</name>
    <tag></tag>
-   <elementGuidId>e328ec18-5fd4-4a9c-aa98-f9f2bdf834da</elementGuidId>
+   <elementGuidId>acf18b11-b49f-4cd1-88f8-6aa5d0a070c7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#eventLainnya</value>
+         <key>XPATH</key>
+         <value>//a[@id='checkoutButton']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='eventLainnya']</value>
+         <key>CSS</key>
+         <value>#checkoutButton</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,118 +22,130 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>96f73866-93ac-4c4d-bbcd-62263d6b9b39</webElementGuid>
+      <webElementGuid>405a2607-7791-4029-998d-a4da41cec178</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/event</value>
-      <webElementGuid>a1fe9627-9621-414d-9a4f-0d9088a27087</webElementGuid>
+      <value>/view_cart/130</value>
+      <webElementGuid>67abda0d-bc6f-4b56-886f-214df50de248</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>eventLainnya</value>
-      <webElementGuid>24775172-f2d3-4976-98eb-e4a657a583ae</webElementGuid>
+      <value>checkoutButton</value>
+      <webElementGuid>d29b663e-39f1-44cd-ac49-43c1a8e7beb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Lihat Event Lainnya</value>
-      <webElementGuid>560d0ea7-52dd-4b69-971f-4f3ae46a5988</webElementGuid>
+      <value>Lihat
+                Pembelian Saya</value>
+      <webElementGuid>6612a8ed-7721-4f8e-9f5d-8e6ce712d9b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;eventLainnya&quot;)</value>
-      <webElementGuid>ce1d47b0-c32d-43d2-8624-54d6b9ab61be</webElementGuid>
+      <value>id(&quot;checkoutButton&quot;)</value>
+      <webElementGuid>ffcde25e-fb4e-480c-b743-f7913856f83a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='eventLainnya']</value>
-      <webElementGuid>161e0421-1761-4ca4-8b34-e12f29bb73a8</webElementGuid>
+      <value>//a[@id='checkoutButton']</value>
+      <webElementGuid>e4d3731d-7090-4f1c-904f-36e88a4e2725</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='Modal_Success']/div/div[2]/a[2]</value>
-      <webElementGuid>ae5cb4ab-1a9f-4283-86ef-9bd37426dbe1</webElementGuid>
+      <value>//div[@id='Modal_Success']/div/div[2]/a</value>
+      <webElementGuid>58e4b5e7-ba42-4916-b95a-dcaf1c7eb504</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Lihat Event Lainnya')]</value>
-      <webElementGuid>807ad72b-e856-44af-96cb-dd3c8aaa9958</webElementGuid>
+      <value>//a[contains(text(),'Lihat
+                Pembelian Saya')]</value>
+      <webElementGuid>8aed94a1-3280-46be-9b50-e24c49a2009f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Day 3: Predict using Machine Learning'])[3]/following::a[2]</value>
-      <webElementGuid>42306fc2-9fc4-47a4-9f8d-80d81253b268</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Day 4: Workshop'])[4]/following::a[1]</value>
+      <webElementGuid>69f3d44e-25b0-4a97-8e21-e76cb1c43aad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2010-2021 Coding.ID All rights reserved.'])[1]/preceding::a[1]</value>
-      <webElementGuid>7cb17956-87f8-43bf-97a8-7018b6e56ac1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='add to cart success'])[1]/following::a[1]</value>
+      <webElementGuid>3feb32c3-d312-40be-9533-ff5ae7c4db9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course'])[4]/preceding::a[6]</value>
-      <webElementGuid>516e392b-5b26-4c40-bbb2-421f9abfa4f1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Event Lainnya'])[1]/preceding::a[1]</value>
+      <webElementGuid>46108072-7b28-46bc-836e-e30102d217fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Lihat Event Lainnya']/parent::*</value>
-      <webElementGuid>a2477263-791a-4626-8c49-b1f710764d39</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2010-2021 Coding.ID All rights reserved.'])[1]/preceding::a[2]</value>
+      <webElementGuid>81d1ee96-a48b-4c31-9174-4ea8d3b3eba2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, '/event')])[10]</value>
-      <webElementGuid>4ae3c7d7-9901-4ea7-876a-b3333f6d4e61</webElementGuid>
+      <value>//a[contains(@href, '/view_cart/130')]</value>
+      <webElementGuid>474c1fad-2e22-42ec-a9fd-2fc07f188dfe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[6]/div/div[2]/a[2]</value>
-      <webElementGuid>2654cd37-48a3-4664-8cb3-45299148ca44</webElementGuid>
+      <value>//div[6]/div/div[2]/a</value>
+      <webElementGuid>3289fadc-b0ab-4fb7-9c89-1245e7d0729b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/event' and @id = 'eventLainnya' and (text() = ' Lihat Event Lainnya' or . = ' Lihat Event Lainnya')]</value>
-      <webElementGuid>f50115c6-3b0f-4d07-abbe-5d6998d55acb</webElementGuid>
+      <value>//a[@href = '/view_cart/130' and @id = 'checkoutButton' and (text() = 'Lihat
+                Pembelian Saya' or . = 'Lihat
+                Pembelian Saya')]</value>
+      <webElementGuid>72c987a2-12c6-4109-824d-7774fe63231a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event already on Cart'])[1]/following::a[1]</value>
+      <webElementGuid>082645af-d6ed-4132-b488-9b4b78d42653</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

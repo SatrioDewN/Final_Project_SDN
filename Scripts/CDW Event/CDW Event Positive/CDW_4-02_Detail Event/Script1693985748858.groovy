@@ -23,16 +23,19 @@ WebUI.navigateToUrl('https://demo-app.online/')
 
 WebUI.click(findTestObject('Object Repository/Page_Be a Profressional Talent with Coding.ID/Button_Masuk_Header'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/input_Email_email'), 'leonleigard@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/Field_Email'), 'leonleigard@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/input_Kata                                 _98da12'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/Field_Password'), 
     'NTfjWyf5Me+Fsw176dhxtw==')
 
-WebUI.click(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/button_Login'))
+WebUI.click(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/Button_Login'))
 
 WebUI.click(findTestObject('Object Repository/Page_Be a Profressional Talent with Coding.ID/Button_Event'))
 
-WebUI.click(findTestObject('Object Repository/Page_Online event bersertifikat dari prakti_f42b96/div_Day 3 Predict using Machine Learning   _e04a14'))
+WebUI.click(findTestObject('Object Repository/Page_Online event bersertifikat dari prakti_f42b96/Event_Day 3 Predict using Machine Learning'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Day 3 Predict using Machine Learning - Ziyad/Verify_Day 3 Predict using Machine Learning'), 
+    'Day 3: Predict using Machine Learning')
 
 WebUI.closeBrowser()
 

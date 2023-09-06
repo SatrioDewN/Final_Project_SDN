@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Email_email</name>
+   <name>Field_Search Event</name>
    <tag></tag>
-   <elementGuidId>6cf15f7d-6e4f-46ad-a45c-bd11c1f1c002</elementGuidId>
+   <elementGuidId>eb15697d-f056-451c-b812-0e2cb15cfe7a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#email</value>
+         <key>XPATH</key>
+         <value>//input[@id='searchInputEvent']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='email']</value>
+         <key>CSS</key>
+         <value>#searchInputEvent</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,86 +22,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>eb6c231b-4493-4020-ba29-af18f3091453</webElementGuid>
+      <webElementGuid>c3a336f4-267d-4cd9-a3a7-8b2ddd147e30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>84a74386-d01f-4bd5-bee9-1da52c1a45de</webElementGuid>
+      <value>searchInputEvent</value>
+      <webElementGuid>6af2e27c-527a-4bd3-bb85-c90553820c45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>wire:model</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>44c20e2c-6ac6-4cf2-90fe-3f3958d69d96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>93f77892-9a76-4608-965f-20271a7f3e20</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>contoh@mail.com</value>
-      <webElementGuid>09d05893-105b-400f-986e-61ce09aeace8</webElementGuid>
+      <value>text</value>
+      <webElementGuid>c7d82942-2a97-4a11-b210-2b1438f1f340</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>c1f6f6a5-f7dc-40e6-8f29-fb72f1364e4f</webElementGuid>
+      <value>form-control searchinput</value>
+      <webElementGuid>8b7cc88b-5c00-487d-8dd6-b96e13d3bfcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>placeholder</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>33ef4c13-4f90-4a70-b454-a9e48ca35058</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>1</value>
-      <webElementGuid>7e6bfec5-d821-4bd3-af76-03a3c4e05549</webElementGuid>
+      <value></value>
+      <webElementGuid>94add670-da4e-4c3e-bf93-b45da32b9191</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;email&quot;)</value>
-      <webElementGuid>efa0a18e-332d-4e11-9eb5-b4c78c5850a5</webElementGuid>
+      <value>id(&quot;searchInputEvent&quot;)</value>
+      <webElementGuid>f33a265a-4eaf-433e-93fe-613293a59725</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='email']</value>
-      <webElementGuid>ca6ec613-1765-4ce8-a373-84438e1df6c6</webElementGuid>
+      <value>//input[@id='searchInputEvent']</value>
+      <webElementGuid>de64478f-0e6b-4e6d-b4b2-4d3e416ccb1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='containerEvent']/div/div/div[2]/input</value>
+      <webElementGuid>8bbb5e32-a182-4315-afbb-e84f824ceb8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/div/input</value>
-      <webElementGuid>640c7174-57ad-4153-81c8-b1adb821940e</webElementGuid>
+      <value>//div[2]/input</value>
+      <webElementGuid>d08d2794-0974-4151-beea-1909b02d12a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'email' and @type = 'email' and @placeholder = 'contoh@mail.com' and @name = 'email']</value>
-      <webElementGuid>d4aa6ded-edc8-40ec-aca9-3135b41036dc</webElementGuid>
+      <value>//input[@id = 'searchInputEvent' and @type = 'text' and @placeholder = '']</value>
+      <webElementGuid>244d9765-4daf-4997-ba4a-f2feff0c15f6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

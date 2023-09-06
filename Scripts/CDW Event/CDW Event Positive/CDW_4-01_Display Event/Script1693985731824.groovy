@@ -23,14 +23,17 @@ WebUI.navigateToUrl('https://demo-app.online/')
 
 WebUI.click(findTestObject('Object Repository/Page_Be a Profressional Talent with Coding.ID/Button_Masuk_Header'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/input_Email_email'), 'leonleigard@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/Field_Email'), 'leonleigard@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/input_Kata                                 _98da12'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/Field_Password'), 
     'NTfjWyf5Me+Fsw176dhxtw==')
 
-WebUI.click(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/button_Login'))
+WebUI.click(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/Button_Login'))
 
 WebUI.click(findTestObject('Object Repository/Page_Be a Profressional Talent with Coding.ID/Button_Event'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Online event bersertifikat dari prakti_f42b96/Verify_Events'), 
+    'Events')
 
 WebUI.closeBrowser()
 

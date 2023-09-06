@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Beli Tiket</name>
+   <name>Button_Beli Tiket</name>
    <tag></tag>
    <elementGuidId>72a26ea7-288c-456f-9f88-0096edc74fa6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#addCart</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@id='addCart']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#addCart</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

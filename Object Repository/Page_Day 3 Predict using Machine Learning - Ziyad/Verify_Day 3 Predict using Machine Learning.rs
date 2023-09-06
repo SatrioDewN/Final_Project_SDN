@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button_Masuk_Header</name>
+   <name>Verify_Day 3 Predict using Machine Learning</name>
    <tag></tag>
-   <elementGuidId>d33789d1-8650-45b8-a16b-d23e1830e134</elementGuidId>
+   <elementGuidId>9fc3c8bf-9dac-434e-970d-bc8ba47d121d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='navbar-collapse-1']/ul/li[7]/a</value>
+         <value>//h1[@id='titleEventDetail']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>li:nth-of-type(7) > a</value>
+         <value>#titleEventDetail</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,103 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>8f9f867f-2c82-44f4-86af-7cdf743dcffc</webElementGuid>
+      <value>h1</value>
+      <webElementGuid>c0781b10-10d3-4e86-8b89-231da3831fca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>id</name>
       <type>Main</type>
-      <value>/login</value>
-      <webElementGuid>5ed3197b-4e3f-436b-8a55-7bb5487d6872</webElementGuid>
+      <value>titleEventDetail</value>
+      <webElementGuid>0ed2667d-fea7-47ce-bf9f-97d830deb9b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Masuk</value>
-      <webElementGuid>368e6b2b-1efa-4f3c-9214-8976e1a1d989</webElementGuid>
+      <value>Day 3: Predict using Machine Learning</value>
+      <webElementGuid>50346217-2f7c-4352-b0fd-7859290a5d8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[7]/a[1]</value>
-      <webElementGuid>19cd76e4-27fb-4ea7-9cdf-15f0a878535c</webElementGuid>
+      <value>id(&quot;titleEventDetail&quot;)</value>
+      <webElementGuid>b3724b17-785c-4243-8f88-6f65fc68ba24</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h1[@id='titleEventDetail']</value>
+      <webElementGuid>4827f0be-eb48-4309-9ec5-a2395f9f3e02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='navbar-collapse-1']/ul/li[7]/a</value>
-      <webElementGuid>f3be6228-2e89-4ce5-b77e-3972247c6570</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'Masuk')]</value>
-      <webElementGuid>39d904be-2c7b-49e7-9ea0-2be0cec9215f</webElementGuid>
+      <value>//div[@id='eventDetailBlock']/h1</value>
+      <webElementGuid>574efa66-4c55-473d-9222-0124b3702332</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontak'])[1]/following::a[1]</value>
-      <webElementGuid>80d71d8c-c6cf-48fe-89d9-ee662db8b130</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Day 3: Predict using Machine Learning'])[1]/following::h1[1]</value>
+      <webElementGuid>c3bc9c54-5bff-41c7-91cc-92a7bc4ae5b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/following::a[2]</value>
-      <webElementGuid>28a662e8-a9e7-4176-9f33-87736e32381c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Events'])[1]/following::h1[1]</value>
+      <webElementGuid>98168776-9cbc-482f-ae9a-99c0c79ae0f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutup'])[1]/preceding::a[2]</value>
-      <webElementGuid>d787a981-1ec0-4dd2-b433-70087e35bed7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ziyad Syauqi Fawwazi'])[1]/preceding::h1[1]</value>
+      <webElementGuid>2774d239-41af-4ea1-b101-c8ae70fb0eb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
-      <webElementGuid>12a9938e-1ac6-4c64-8a30-af4a14deff93</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[contains(@href, '/login')]</value>
-      <webElementGuid>cbaff04b-9c68-4f28-a45b-a37a98e7d9fd</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Scientist Market Leader Company in Automotive Industry'])[1]/preceding::h1[1]</value>
+      <webElementGuid>8c67f42d-076c-480b-89cf-d2dbe19a59b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[7]/a</value>
-      <webElementGuid>24e30c99-6fe7-4bfc-aceb-d8a49a0c35d1</webElementGuid>
+      <value>//h1</value>
+      <webElementGuid>b7bfe55b-a61c-44d7-9d3d-545ec042dc2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/login' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>28591e42-4da1-4336-8ad1-64141ff1cf50</webElementGuid>
+      <value>//h1[@id = 'titleEventDetail' and (text() = 'Day 3: Predict using Machine Learning' or . = 'Day 3: Predict using Machine Learning')]</value>
+      <webElementGuid>5701b268-1ac2-4f4b-833b-b1cd886e88e0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

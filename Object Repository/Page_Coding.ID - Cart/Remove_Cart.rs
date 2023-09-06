@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>p_Remove</name>
+   <name>Remove_Cart</name>
    <tag></tag>
    <elementGuidId>1f284b4a-1514-4e80-b8a2-e3d277cc19be</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a > p</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//form[@id='cartForm']/div/div/div[3]/a/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a > p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>a524c128-1f94-47fe-81f7-36c882b9f87c</webElementGuid>
+      <webElementGuid>9ce297dd-b699-453e-8f94-5d5ab7eb19bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <type>Main</type>
       <value>
                                                     Remove </value>
-      <webElementGuid>0c69c681-620d-4769-aa7d-889c57437040</webElementGuid>
+      <webElementGuid>4332a61a-02ee-4024-ab3c-2674883ec91c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cartForm&quot;)/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/a[1]/p[1]</value>
-      <webElementGuid>d9190293-19f3-4ac9-8d1d-cdeb33a37bfc</webElementGuid>
+      <webElementGuid>aa68d7ac-a522-425c-a712-627c0686b4e5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='cartForm']/div/div/div[3]/a/p</value>
-      <webElementGuid>aa270820-670d-4c30-a4fe-9a56ebb4304b</webElementGuid>
+      <webElementGuid>72ce47f9-ebf4-4d62-9585-eb6d5adbe986</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/following::p[3]</value>
-      <webElementGuid>d32db7c7-024c-4eac-b953-65a6e82457f0</webElementGuid>
+      <webElementGuid>55c3a58d-6559-4aed-96fb-daa0e4ef237c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Day 3: Predict using Machine Learning'])[1]/preceding::p[1]</value>
-      <webElementGuid>8cdb9b89-6e6d-493b-ab00-769caf83fa8d</webElementGuid>
+      <webElementGuid>ae794ea0-1dee-4298-8051-9cc394163779</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[2]/preceding::p[1]</value>
-      <webElementGuid>fa7bf499-e3dd-420b-ac03-c95f4d469e37</webElementGuid>
+      <webElementGuid>64eddbfd-8ee7-4d2f-b0b3-baedb1028d85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Remove']/parent::*</value>
-      <webElementGuid>ea3eabe6-4c3d-4774-aa4f-72331965d5e9</webElementGuid>
+      <webElementGuid>34b923d8-d1c8-4815-830c-2d7c621c25b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/p</value>
-      <webElementGuid>a9641e16-46d7-4af9-9348-9b6257bca298</webElementGuid>
+      <webElementGuid>e4e9cfe8-fcb0-4304-be75-8c48aea7ca00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,6 +97,6 @@
       <value>//p[(text() = '
                                                     Remove ' or . = '
                                                     Remove ')]</value>
-      <webElementGuid>74d783a6-63c1-40e8-8442-ae636e0a1bed</webElementGuid>
+      <webElementGuid>796a92b4-559e-4f04-bff6-554964d03100</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

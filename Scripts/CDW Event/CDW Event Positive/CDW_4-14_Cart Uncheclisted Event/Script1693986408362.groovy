@@ -23,32 +23,30 @@ WebUI.navigateToUrl('https://demo-app.online/')
 
 WebUI.click(findTestObject('Object Repository/Page_Be a Profressional Talent with Coding.ID/Button_Masuk_Header'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/input_Email_email'), 'leonleigard@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/Field_Email'), 'leonleigard@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/input_Kata                                 _98da12'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/Field_Password'), 
     'NTfjWyf5Me+Fsw176dhxtw==')
 
-WebUI.click(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/button_Login'))
+WebUI.click(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/Button_Login'))
 
 WebUI.click(findTestObject('Object Repository/Page_Be a Profressional Talent with Coding.ID/Button_Event'))
 
-WebUI.click(findTestObject('Object Repository/Page_Online event bersertifikat dari prakti_f42b96/div_Day 3 Predict using Machine Learning   _e04a14'))
+WebUI.click(findTestObject('Object Repository/Page_Online event bersertifikat dari prakti_f42b96/Event_Day 3 Predict using Machine Learning'))
 
-WebUI.click(findTestObject('Object Repository/Page_Day 3 Predict using Machine Learning - Ziyad/div_Harga Kelas                            _67e05a'))
+WebUI.click(findTestObject('Object Repository/Page_Day 3 Predict using Machine Learning - Ziyad/Button_Beli Tiket'))
 
-WebUI.click(findTestObject('Object Repository/Page_Day 3 Predict using Machine Learning - Ziyad/a_Beli Tiket'))
+WebUI.click(findTestObject('Object Repository/Page_Day 3 Predict using Machine Learning - Ziyad/Button_Lihat Event Lainnya'))
 
-WebUI.click(findTestObject('Object Repository/Page_Day 3 Predict using Machine Learning - Ziyad/a_Lihat Event Lainnya'))
+WebUI.click(findTestObject('Object Repository/Page_Online event bersertifikat dari prakti_f42b96/Event_Day 4 Workshop'))
 
-WebUI.click(findTestObject('Object Repository/Page_Online event bersertifikat dari prakti_f42b96/div_Day 4 Workshop                         _31d43a'))
+WebUI.click(findTestObject('Object Repository/Page_Day 4 Workshop - Ziyad/Button_Beli Tiket'))
 
-WebUI.click(findTestObject('Object Repository/Page_Day 4 Workshop - Ziyad/a_Beli Tiket'))
+WebUI.click(findTestObject('Object Repository/Page_Day 4 Workshop - Ziyad/Button_Pembelian Saya'))
 
-WebUI.click(findTestObject('Object Repository/Page_Day 4 Workshop - Ziyad/a_Lihat                Pembelian Saya'))
+WebUI.click(findTestObject('Page_Coding.ID - Cart/Checklist_Day 4_Cart'))
 
-WebUI.click(findTestObject('Object Repository/Page_Coding.ID - Cart/p_Remove'))
-
-WebUI.click(findTestObject('Object Repository/Page_Coding.ID - Cart/p_Remove'))
+WebUI.verifyElementText(findTestObject('Page_Coding.ID - Cart/Checklist_Day 4_Cart'), '')
 
 WebUI.closeBrowser()
 
