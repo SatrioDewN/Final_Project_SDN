@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the event can be removed from cart</description>
+   <name>CDW_4-15</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e84168ab-aa19-481d-a33c-5e26c9368684</testCaseGuid>
+</TestCaseEntity>
