@@ -23,13 +23,9 @@ Mobile.tap(findTestObject('Mobile/Home Page/Button_Login Here'), 0)
 
 Mobile.verifyElementText(findTestObject('Mobile/Sign in Page/Text_Sign In'), 'Sign In')
 
-Mobile.setText(findTestObject('Mobile/Sign in Page/Field_Input Email'), 'leonleigar@gmail.com', 0)
+Mobile.tap(findTestObject('Mobile/Sign in Page/Button_Register Now'), 0)
 
-Mobile.setText(findTestObject('Mobile/Sign in Page/Field_Input Password'), 'Workinghour1!', 0)
-
-Mobile.tap(findTestObject('Mobile/Sign in Page/Button_Login'), 0)
-
-Mobile.verifyElementText(findTestObject('Mobile/Sign in Page/Text_Invalid Credential'), 'Invalid Credential')
+Mobile.verifyElementText(findTestObject('Mobile/Sign Up Page/Text_Lets join our community'), 'Lets join our community!')
 
 Mobile.closeApplication()
 

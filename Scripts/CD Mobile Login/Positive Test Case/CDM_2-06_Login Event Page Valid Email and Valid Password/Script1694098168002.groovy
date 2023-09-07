@@ -19,17 +19,27 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('D:\\Users\\bsi80195\\Downloads\\DemoAppV2.apk', true)
 
-Mobile.tap(findTestObject('Mobile/Home Page/Button_Login Here'), 0)
+Mobile.tap(findTestObject('Mobile/Home Page/Button_See All'), 0)
+
+Mobile.tap(findTestObject('Mobile/Event Page/Button_Event Day 3'), 0)
+
+Mobile.tap(findTestObject('Mobile/Event Page/Event Details Page/Button_Login Event Details'), 0)
 
 Mobile.verifyElementText(findTestObject('Mobile/Sign in Page/Text_Sign In'), 'Sign In')
 
-Mobile.setText(findTestObject('Mobile/Sign in Page/Field_Input Email'), 'leonleigar@gmail.com', 0)
+Mobile.tap(findTestObject('Mobile/Sign in Page/Field_Email Event'), 0)
 
-Mobile.setText(findTestObject('Mobile/Sign in Page/Field_Input Password'), 'Workinghour1!', 0)
+Mobile.setText(findTestObject('Mobile/Sign in Page/Field_Email Event'), 'leonleigard@gmail.com', 0)
+
+Mobile.tap(findTestObject('Mobile/Sign in Page/Field_Event Password'), 0)
+
+Mobile.setText(findTestObject('Mobile/Sign in Page/Field_Event Password'), 'Workinghour1!', 0)
 
 Mobile.tap(findTestObject('Mobile/Sign in Page/Button_Login'), 0)
 
-Mobile.verifyElementText(findTestObject('Mobile/Sign in Page/Text_Invalid Credential'), 'Invalid Credential')
+Mobile.tap(findTestObject('Mobile/Home Page/Button_My Profile'), 0)
+
+Mobile.verifyElementText(findTestObject('Mobile/Profile Page/Text_Detail Information'), 'Detail Information')
 
 Mobile.closeApplication()
 
