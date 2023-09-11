@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>Coding ID BSI</name>
+   <name>Hubla</name>
    <tag></tag>
-   <UUID>d6ad63d0-cd10-4c0b-87a7-e5b0a2e48d80</UUID>
+   <UUID>2826b349-7917-4ea3-b327-7586c9b890b4</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>
@@ -25,5 +25,5 @@
       </systemFolderList>
    </sourceContent>
    <timeStampInProperties>false</timeStampInProperties>
-   <type>WEBUI</type>
+   <type>MOBILE</type>
 </Project>
